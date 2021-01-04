@@ -16,4 +16,4 @@ C project created in 2020. It is an artificial intelligence for the game 4 in a 
 
 - 📫 How to reach me **gomezdiazmireia@gmail.com**
 
-- <a href="https://linkedin.com/in/pol piñol castuera" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pol piñol castuera" height="20" width="30" />Pol Piñol Castuera</a> 
+- <a href="https://www.linkedin.com/in/mireia-gómez-diaz-4322221b0/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Mireia Gómez Diaz" height="20" width="30" />Pol Piñol Castuera</a> 
